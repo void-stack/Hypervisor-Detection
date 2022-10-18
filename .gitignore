@@ -31,3 +31,4 @@
 *.out
 *.app
 Hypervisor-Detection.sln.DotSettings.user
+Hypervisor-Detection/Hypervisor-Detection.vcxproj.user
