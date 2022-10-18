@@ -17,7 +17,7 @@ Supports both x86 and x64. Currently implements four techniques:
 </br>
 
 # Anyrun
-<img src="Screenshots/anyrun.png">
+<img src="Screenshots/any_run.png">
 
 </br>
 
