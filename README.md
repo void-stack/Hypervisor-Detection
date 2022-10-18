@@ -12,7 +12,7 @@ Supports both x86 and x64. Currently implements four techniques:
 </br>
 
 # HyperV
-<img src="Screenshots/vmware.png">
+<img src="Screenshots/hyperv.png">
 
 </br>
 
